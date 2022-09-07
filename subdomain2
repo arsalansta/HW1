@@ -1,31 +1,4 @@
-Skip to content
-Search or jump to…
-Pulls
-Issues
-Marketplace
-Explore
- 
-@arsalansta 
-arsalansta
-/
-HW1
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-More
-HW1/index.html
-@arsalansta
-arsalansta Update index.html
-Latest commit e5c1697 8 hours ago
- History
- 1 contributor
-30 lines (25 sloc)  2.13 KB
+
 
 <!doctype html>
 <html lang="en">
@@ -57,18 +30,3 @@ Latest commit e5c1697 8 hours ago
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
   </body>
 </html>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-You have no unread notifications
