@@ -1,7 +1,4 @@
-<!doctype html>
-<html lang="en">
-  <head>
- 
+
   <body>
    
 <a class="btn btn-primary" href="#" role="button">Link</a>
@@ -11,5 +8,4 @@
 <a class="btn btn-primary" href="#" role="button">Link</a>
 
   </body>
-</html>
 
