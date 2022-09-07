@@ -1,5 +1,18 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>HW1</title>
+  </head>
+  <body>
+   
 <a class="btn btn-primary" href="#" role="button">Link</a>
 <a class="btn btn-primary" href="#" role="button">Link</a>
 <a class="btn btn-primary" href="#" role="button">Link</a>
 <a class="btn btn-primary" href="#" role="button">Link</a>
 <a class="btn btn-primary" href="#" role="button">Link</a>
+
+  </body>
+</html>
+
